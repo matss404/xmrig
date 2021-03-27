@@ -62,10 +62,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": argon2/chukwav2,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "sg.turtlecoin.herominers.com:10381",
+            "user": "TRTLv21y9GvVMmoGZsrQncDArSmqMDNCSbkjC9UfQrrsBAFbcfR3BnMbb4aNZkUV6yh9YWDSrdtgCSpkq7H7Ecqdb63coqjAVA9",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
